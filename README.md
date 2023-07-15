@@ -1,3 +1,7 @@
+for this task to complete we require BeautifulSoup ,requests,pandas 
+#pip install beautifulsoup4-- comand to install BeautifulSoup 
+#import all nesasary module by
+
 # pythonproject
 this is data scraping project 
 
